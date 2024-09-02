@@ -70,7 +70,3 @@ This project provides an in-depth study of the 2D Ising model on different latti
 - Extend the simulations to three-dimensional lattices to explore more complex critical phenomena.
 - Incorporate external magnetic fields and study their effects on phase transitions.
 - Use larger lattice sizes and improved numerical methods to reduce finite-size effects and improve accuracy.
-
-## Contact
-
-For any questions or contributions, please contact the project author, Lukas Helmig.
